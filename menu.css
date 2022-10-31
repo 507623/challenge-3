@@ -1,0 +1,71 @@
+header{
+    background-color: #0E4281;
+    width: 105%;
+    height: 70px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#button1{
+    width: 70px;
+    height: 50px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-left: 35%;
+    margin-top:  -60px;
+    border-radius: 20px;
+     font-family: 'Sofia',cursive;
+    }
+#button2{
+    width: 70px;
+    height: 50px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-left: 49%;
+    margin-top: -50px;
+    border-radius: 20px;
+    font-family: 'Sofia',cursive;
+        }
+#button3{
+    width: 70px;
+    height: 50px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-left: 63%;
+    margin-top: -50px;
+    border-radius: 20px;
+    font-family: 'Sofia',cursive;
+}
+
+#foto{
+    width: 80px;
+    height: 80px;
+    margin-top: -5px;
+}
+#text-logo{
+    margin-top: -70px;
+    margin-left: 90px;
+    font-family: 'Sofia',cursive;
+} 
+#side
+{
+width: 270px;
+height: 600px;
+border: 2px black solid;
+margin-top: 150px;
+margin-left: 170px;
+}
+
