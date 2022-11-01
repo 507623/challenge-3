@@ -70,3 +70,63 @@ margin-left: 170px;
 border-radius: 10px;
 }
 
+#voor
+{
+    width: 100px;
+    top: 245px;
+    left: 180px;
+    position: absolute;
+}
+
+#voor1
+{
+ margin-top: -520px;
+ margin-left: 280px;
+font-size: 25px;
+ 
+}
+
+#hoofd
+{
+    width: 100px;
+    top: 350px;
+    left: 175px;
+    position: absolute;
+
+}
+
+#hoofd1
+{
+margin-top: 65px;
+margin-left: 275px;
+font-size: 25px;
+}
+#nagerecht
+{
+    width: 100px;
+    top: 460px;
+    left: 175px;
+    position: absolute;
+}
+
+#na1
+{
+    margin-top: 85px;
+    font-size: 25px;
+    margin-left: 275px;
+
+}
+
+#dranken
+{
+    width: 100px;
+    top: 575px;
+    left: 175px;
+    position: absolute;
+}
+#dranken1
+{
+    margin-top: 105px;
+    margin-left: 475;
+    font-size: 25px;
+}
