@@ -4,11 +4,15 @@
     box-sizing: border-box;
     
     }
+    body{
+        background-color: rgb(255, 255, 255)55, 255, 255;
+    }
     
     header{
         background-color: #0E4281;
         width: 100%;
-        height: 70px;
+        height: 90px;
+        margin-top: 20px;
     }
     
     a{
@@ -24,7 +28,7 @@
         text-align: center;
         line-height: 50px;
         margin-left: 30%;
-        margin-top:  -60px;
+        margin-top:  -70px;
         border-radius: 20px;
          font-family: 'Sofia',cursive;
         }
@@ -57,7 +61,7 @@
     #foto{
         width: 80px;
         height: 80px;
-        margin-top: -5px;
+        margin-top: 7px;
     }
     #text-logo{
         margin-top: -70px;
@@ -66,27 +70,27 @@
     } 
     
     #fotos{
-        margin-left: 450px;
+        margin-left: 1025px;
         margin-top: 100px;
-        width: 1000px;
+        width: 800px;
         height: 500px;
-        border: 5px solid rgb(0, 0, 0);
-        background-image: url(./imges/foto1.png) ;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 10px;
+        background-image: url(./imges/burger.png) ;
         background-position: center ;
         background-repeat: no-repeat;
         background-size: cover;
         animation-name: photo;
-        box-shadow: 1px 5px 82px rgb(0, 0, 0);
-        animation-delay: 3s;
+        box-shadow: 1px 10px 80px rgb(0, 0, 0);
+        animation-delay: 1s;
         animation-duration: 20s;
         animation-iteration-count: infinite;
         
     }
     @keyframes photo{
-        10%{ background-image: url(./imges/foto2.png);}
-        30%{ }
-        50%{background-image: url(./imges/foto3.png );}
-    
+        
+        30%{ background-image: url(./imges/tailgate.png );}
+       
     }
     
                           /* Foooter */
@@ -131,3 +135,116 @@
         width: 80PX;
         margin-top:15PX;
     }
+#seller1{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 600px;
+    width: 300px;
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.609);
+    
+}
+    
+#prijs1{
+    background-color: rgba(0, 0, 0, 0.632);
+    width: 100px;
+    height: 50px;
+    margin-left:770px ;
+    margin-top: -325px;
+    position: absolute;
+    /* opacity: /; */
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px 50px;
+}
+
+#naam1{
+    background-color: rgba(0, 0, 0, 0.83);
+    width: 300px;
+    height: 28px;
+    margin-left: 600px;
+    margin-top: -515px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    border-radius: 50px 50px 0px 10px;
+
+}
+
+#seller2{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 200px;
+    width: 300px;
+    border-radius: 10px;
+    height: 244px;
+    border: 2px solid rgba(0, 0, 0, 0.609);
+    
+}
+
+#prijs2{
+    background-color: rgba(0, 0, 0, 0.632);
+    width: 100px;
+    height: 50px;
+    margin-left:370px ;
+    margin-top: -325px;
+    position: absolute;
+    /* opacity: /; */
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px 50px;
+}
+
+#naam2{
+    background-color: rgba(0, 0, 0, 0.83);
+    width: 300px;
+    height: 28px;
+    margin-left: 200px;
+    margin-top: -515px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    border-radius: 50px 50px 0px 10px;
+}
+
+#seller3{
+    position: absolute;
+    margin-top: -225px;
+    margin-left: 400px;
+    width: 300px;
+    border-radius: 10px;
+    height: 244px;
+    border: 2px solid rgb(0, 0, 0);
+    
+}
+
+#prijs3{
+    background-color: rgba(0, 0, 0, 0.632);
+    width: 100px;
+    height: 50px;
+    margin-left:575px ;
+    margin-top: -60px;
+    position: absolute;
+    /* opacity: /; */
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px 50px;
+}
+
+#naam3{
+    background-color: rgba(0, 0, 0, 0.83);
+    width: 300px;
+    height: 28px;
+    margin-left: 400px;
+    margin-top: -240px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    border-radius: 50px 50px 0px 10px;
+}
