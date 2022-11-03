@@ -27,13 +27,14 @@
         display: block;
         background-color: rgb(255, 255, 255);
         color: rgb(0, 0, 0);
-        text-align: right;
+        text-align: center;
         line-height: 50px;
         margin-left: 30%;
         margin-top:  -70px;
         border-radius: 20px;
         font-family: sans-serif;
-        padding: 5px;
+        /* padding: 5px; */
+        
         
         }
     #button1:hover{
@@ -93,13 +94,14 @@
         animation-name: photo;
         box-shadow: 1px 10px 80px rgb(0, 0, 0);
         animation-delay: 1s;
-        animation-duration: 8s;
+        animation-duration: 12s;
         animation-iteration-count: infinite;
         
     }
     @keyframes photo{
         
         30%{ background-image: url(./imges/tailgate.png );}
+        50%{ background-image: url(./imges/seller2ijs.png );}
        
     }
     
@@ -298,3 +300,9 @@
     font-family: sans-serif;
 }
 
+#f{
+    margin-top: 10px;
+    width: 20px;
+    margin-left: 200px;
+    position: absolute;
+}
