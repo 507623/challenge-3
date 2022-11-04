@@ -85,3 +85,9 @@ a:hover{
     color: rgb(214, 79, 16);}
 .box:hover{
     transform: scale(0.9);}
+
+#voor3
+{
+    margin-top: -600px;
+    text-align: center;
+}
