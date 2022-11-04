@@ -22,7 +22,7 @@
     }
     
     #button1{
-        width: 150px;
+        width: 70px;
         height: 50px;
         display: block;
         background-color: rgb(255, 255, 255);
@@ -37,11 +37,8 @@
         
         
         }
-    #button1:hover{
-        scale: 1.1;
-        transition: 1s ease;
-        background-color: lightcoral;
-    }
+   
+
     #button2{
         width: 70px;
         height: 50px;
@@ -289,7 +286,7 @@
 #bestseller{
     width: 350px;
     height: 35px;
-    background-color: rgb(255, 255, 255);
+    background-color: aliceblue;
     margin-top: -550px ;
     margin-left: 375px;
     position: absolute;
