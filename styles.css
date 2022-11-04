@@ -5,8 +5,8 @@
     
     }
     body{
-        /* background-color: rgb(148, 188, 205); */
         background-color: aliceblue;
+        /* background-color: rgb(218, 235, 250); */
         
     }
     
@@ -286,7 +286,7 @@
 #bestseller{
     width: 350px;
     height: 35px;
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
     margin-top: -550px ;
     margin-left: 375px;
     position: absolute;
