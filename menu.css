@@ -1,7 +1,7 @@
 header{
     background-color: #0E4281;
     width: 105%;
-    height: 70px;
+    height: 90px;
     margin-top: -8px;
     margin-left: -8px;
 }
@@ -18,11 +18,16 @@ a{
     color: rgb(0, 0, 0);
     text-align: center;
     line-height: 50px;
-    margin-left: 30%;
+    margin-left: 575px;
     margin-top:  -60px;
     border-radius: 20px;
-     font-family: 'Sofia',cursive;
+    font-family: sans-serif;
+    /* padding: 5px; */
+    
+    
     }
+
+
 #button2{
     width: 70px;
     height: 50px;
@@ -31,10 +36,10 @@ a{
     color: rgb(0, 0, 0);
     text-align: center;
     line-height: 50px;
-    margin-left: 48%;
+    margin-left: 920px;
     margin-top: -50px;
     border-radius: 20px;
-    font-family: 'Sofia',cursive;
+    font-family: sans-serif;
         }
 #button3{
     width: 70px;
@@ -44,20 +49,21 @@ a{
     color: rgb(0, 0, 0);
     text-align: center;
     line-height: 50px;
-    margin-left: 65%;
+    margin-left: 1250px;
     margin-top: -50px;
     border-radius: 20px;
-    font-family: 'Sofia',cursive;
+    font-family: sans-serif;
 }
 #foto{
     width: 80px;
     height: 80px;
-    margin-top: -5px;}
+    margin-top: 6px;}
 
 #text-logo{
     margin-top: -70px;
     margin-left: 90px;
-    font-family: 'Sofia',cursive;} 
+    font-family: sans-serif;
+} 
 #side{
     width: 285px;
     height: 520px;
