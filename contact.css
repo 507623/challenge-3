@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+    body{
+        /* background-color: rgb(148, 188, 205); */
+        background-color: aliceblue;
+        
+    }
+    
+    header{
+        background-color: #0E4281;
+        width: 100%;
+        height: 90px;
+        
+    }
+    
+    a{
+        text-decoration: none;
+    }
+    
+    #button1{
+        width: 70px;
+        height: 50px;
+        display: block;
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        text-align: center;
+        line-height: 50px;
+        margin-left: 30%;
+        margin-top:  -70px;
+        border-radius: 20px;
+        font-family: sans-serif;
+        /* padding: 5px; */
+        
+        
+        }
+   
+
+    #button2{
+        width: 70px;
+        height: 50px;
+        display: block;
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        text-align: center;
+        line-height: 50px;
+        margin-left: 48%;
+        margin-top: -50px;
+        border-radius: 20px;
+        font-family: sans-serif;
+            }
+    #button3{
+        width: 70px;
+        height: 50px;
+        display: block;
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        text-align: center;
+        line-height: 50px;
+        margin-left: 65%;
+        margin-top: -50px;
+        border-radius: 20px;
+        font-family: sans-serif;
+    }
+    #foto{
+        width: 80px;
+        height: 80px;
+        margin-top: 7px;
+    }
+    #text-logo{
+        margin-top: -70px;
+        margin-left: 90px;
+        font-family: sans-serif;
+        color: black    ;
+    } 
+    #map{
+        margin-left: 150px;
+        margin-top: 80px;
+        border-radius: 10%;
+    }
+    table{
+        margin-left: 1080px;
+        height: 500px;
+        margin-top: -500px;
+        width: 600px;
+        border: #000000;
+    }
+    select{
+        width: 200px;
+    }
+  
+
+footer{
+    background-color: #81C6E8;
+    width: 100%;
+    height: 158px;
+    margin-top: 117px;
+}
+#SOCIAlMEDIA{
+    margin-left: 40%;
+    margin-top: 25px;
+    position: absolute;
+}
+#contact{
+    margin-left: 1555px;
+    margin-top: 20px;
+    position: absolute;
+
+}
+#adres{
+    margin-left: 200px;
+    margin-top: 20px;
+    position: absolute;
+}
