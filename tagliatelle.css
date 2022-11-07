@@ -29,8 +29,14 @@ a{
     border-radius: 20px;
     font-family: sans-serif;
     /* padding: 5px; */
-    
-    
+    }
+
+    #button1:hover{
+        background-color: #085c8d;
+        width: 100px;
+        margin-left: 29%;
+        color: white;
+        transition: 1s;
     }
 
 
@@ -47,6 +53,14 @@ a{
     border-radius: 20px;
     font-family: sans-serif;
         }
+        #button2:hover{
+            background-color: #085c8d;
+            width: 100px;
+            margin-left: 47%;
+            color: white;
+            transition: 1s;
+        }
+
 #button3{
     width: 70px;
     height: 50px;
@@ -59,6 +73,14 @@ a{
     margin-top: -50px;
     border-radius: 20px;
     font-family: sans-serif;
+}
+
+#button3:hover{
+    background-color: #085c8d;
+    width: 100px;
+    margin-left: 64%;
+    color: white;
+    transition: 1s;
 }
 #foto{
     width: 80px;
@@ -86,18 +108,26 @@ a{
     margin-left: 200px;
     margin-top: 200px;
 }
-
+#container{
+    height: auto;
+    width: 50%;
+}
 #Efoto{
     position: absolute;
     margin-left: 950px;
     margin-top: -650px;
     border-radius: 20px;
     box-shadow: 10px 10px 50px 1px;
+    overflow:hidden;
+    display: block;
+    /* border: 1px solid black; */
+    
 }
 
 #Efoto:hover{
+    transform: 1.2;
     scale: 1.2;
-    transition: 2s;
+    
 }
 
 
