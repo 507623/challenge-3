@@ -104,7 +104,7 @@ a{
     width: 500px;
     height: 300px;
 }
-#tagliatelle{
+#tekst-info{
     margin-left: 200px;
     margin-top: 200px;
 }
@@ -139,30 +139,4 @@ a{
 
 
 
-/* #side{
-    width: 285px;
-    height: 520px;
-    border: 2px black solid;
-    margin-top: 150px;
-    margin-left: 170px;
-    border-radius: 10px;}
-#container{
-    font-size: 20px;
-    margin-left: 15px;
-    margin-top: 25PX;}
-.fotos{
-    width: 110px; } 
-.text{
-    margin-top: -50px;
-    margin-left: 110px;
-    font-family: 'Sofia',cursive;}
-.text1{
-    margin-top: -70px;
-    margin-left: 110px;
-    font-family: 'Sofia',cursive;}
-a{
-    color: rgb(0, 0, 0);}
-a:hover{
-    color: rgb(214, 79, 16);}
-.box:hover{
-    transform: scale(0.9);} */
+

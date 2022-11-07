@@ -34,9 +34,16 @@
         border-radius: 20px;
         font-family: sans-serif;
         /* padding: 5px; */
-        
-        
         }
+        #button1:hover{
+            background-color: #085c8d;
+            width: 100px;
+            margin-left: 29%;
+            color: white;
+            transition: 1s;
+        }
+
+        
    
 
     #button2{
@@ -52,6 +59,13 @@
         border-radius: 20px;
         font-family: sans-serif;
             }
+        #button2:hover{
+            background-color: #085c8d;
+            width: 100px;
+                            margin-left: 47%;
+                color: white;
+                transition: 1s;
+            }
     #button3{
         width: 70px;
         height: 50px;
@@ -64,6 +78,13 @@
         margin-top: -50px;
         border-radius: 20px;
         font-family: sans-serif;
+    }
+    #button3:hover{
+        background-color: #085c8d;
+        width: 100px;
+        margin-left: 64%;
+        color: white;
+        transition: 1s;
     }
     #foto{
         width: 80px;
