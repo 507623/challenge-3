@@ -1,3 +1,9 @@
+
+body{
+    font-family: sans-serif;
+}
+/* HEADER */
+
 header{
     background-color: #0E4281;
     width: 1920px;
@@ -23,8 +29,14 @@ a{
     border-radius: 20px;
     font-family: sans-serif;
     /* padding: 5px; */
-    
-    
+    }
+
+    #button1:hover{
+        background-color: #085c8d;
+        width: 100px;
+        margin-left: 29%;
+        color: white;
+        transition: 1s;
     }
 
 
@@ -41,6 +53,14 @@ a{
     border-radius: 20px;
     font-family: sans-serif;
         }
+        #button2:hover{
+            background-color: #085c8d;
+            width: 100px;
+            margin-left: 47%;
+            color: white;
+            transition: 1s;
+        }
+
 #button3{
     width: 70px;
     height: 50px;
@@ -54,6 +74,14 @@ a{
     border-radius: 20px;
     font-family: sans-serif;
 }
+
+#button3:hover{
+    background-color: #085c8d;
+    width: 100px;
+    margin-left: 64%;
+    color: white;
+    transition: 1s;
+}
 #foto{
     width: 80px;
     height: 80px;
@@ -64,35 +92,51 @@ a{
     margin-left: 90px;
     font-family: sans-serif;
 } 
-#side{
-    width: 285px;
-    height: 620px;
-    border: 2px black solid;
-    margin-top: 50px;
-    margin-left: 170px;
-    border-radius: 10px;}
-#container{
-    font-size: 20px;
-    margin-left: 15px;
-    margin-top: 25PX;}
-.fotos{
-    width: 110px; } 
-.text{
-    margin-top: -50px;
-    margin-left: 110px;
-    font-family: 'Sofia',cursive;}
-.text1{
-    margin-top: -70px;
-    margin-left: 110px;
-    font-family: 'Sofia',cursive;}
-a{
-    color: rgb(0, 0, 0);}
-a:hover{
-    color: rgb(214, 79, 16);}
-.box img{
-    width: 86px;
-    padding: 12px;
+
+
+#top-titel{
+    font-size: 48px;
+    font-family: sans-serif;
 }
 
-.box:hover{
-    transform: scale(0.9);}
+
+#tekst{
+    width: 500px;
+    height: 300px;
+}
+#tekst-info{
+    margin-left: 200px;
+    margin-top: 200px;
+}
+#container{
+    height: auto;
+    width: 50%;
+}
+#Efoto{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: -650px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px 1px;
+    overflow:hidden;
+    display: block;
+    /* border: 1px solid black; */
+    
+}
+
+#Efoto:hover{
+    transform: 1.2;
+    scale: 1.2;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
