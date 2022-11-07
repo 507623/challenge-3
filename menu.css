@@ -160,5 +160,11 @@ a:hover{
 #voorgerechten{
     position: absolute;
     top: 100px;
-    left: 850px;
+    left: 1050px;
+}
+
+#container-food{
+    position: absolute;
+    margin-top: -800px;
+    margin-left: 200px;
 }
