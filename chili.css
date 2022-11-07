@@ -1,0 +1,131 @@
+body{
+    font-family: sans-serif;
+}
+/* HEADER */
+
+header{
+    background-color: #0E4281;
+    width: 1920px;
+    height: 90px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#button1{
+    width: 70px;
+    height: 50px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-left: 575px;
+    margin-top:  -60px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    /* padding: 5px; */
+    
+    
+    }
+
+
+#button2{
+    width: 70px;
+    height: 50px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-left: 920px;
+    margin-top: -50px;
+    border-radius: 20px;
+    font-family: sans-serif;
+        }
+#button3{
+    width: 70px;
+    height: 50px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-left: 1250px;
+    margin-top: -50px;
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+#foto{
+    width: 80px;
+    height: 80px;
+    margin-top: 6px;}
+
+#text-logo{
+    margin-top: -70px;
+    margin-left: 90px;
+    font-family: sans-serif;
+} 
+
+
+#top-titel{
+    font-size: 48px;
+    font-family: sans-serif;
+}
+
+
+#tekst{
+    width: 500px;
+    height: 300px;
+}
+#tagliatelle{
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+#Efoto{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: -650px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px 1px;
+}
+
+#Efoto:hover{
+    scale: 1.2;
+    transition: 2s;
+}
+
+
+
+
+/* #side{
+    width: 285px;
+    height: 520px;
+    border: 2px black solid;
+    margin-top: 150px;
+    margin-left: 170px;
+    border-radius: 10px;}
+#container{
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 25PX;}
+.fotos{
+    width: 110px; } 
+.text{
+    margin-top: -50px;
+    margin-left: 110px;
+    font-family: 'Sofia',cursive;}
+.text1{
+    margin-top: -70px;
+    margin-left: 110px;
+    font-family: 'Sofia',cursive;}
+a{
+    color: rgb(0, 0, 0);}
+a:hover{
+    color: rgb(214, 79, 16);}
+.box:hover{
+    transform: scale(0.9);} */
