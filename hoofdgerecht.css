@@ -1,0 +1,187 @@
+header{
+    background-color: #0E4281;
+    width: 1920px;
+    height: 90px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#button1{
+    width: 70px;
+    height: 50px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-left: 575px;
+    margin-top:  -60px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    /* padding: 5px; */ }
+
+    #button1:hover{
+        background-color: #085c8d;
+        width: 100px;
+        margin-left: 29%;
+        color: white;
+        transition: 1s;
+            }   
+#button2{
+    width: 70px;
+    height: 50px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-left: 920px;
+    margin-top: -50px;
+    border-radius: 20px;
+    font-family: sans-serif;
+        }
+#button2:hover{
+    background-color: #085c8d;
+    width: 100px;
+    margin-left: 47%;
+    color: white;
+    transition: 1s;
+        }      
+#button3{
+    width: 70px;
+    height: 50px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-left: 1250px;
+    margin-top: -50px;
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+#button3:hover{
+    background-color: #085c8d;
+    width: 100px;
+    margin-left: 64%;
+    color: white;
+    transition: 1s;
+}
+#foto{
+    width: 80px;
+    height: 80px;
+    margin-top: 6px;}
+
+#text-logo{
+    margin-top: -70px;
+    margin-left: 90px;
+    font-family: sans-serif;
+} 
+#side{
+    width: 285px;
+    height: 620px;
+    border: 2px black solid;
+    margin-top: 50px;
+    margin-left: 170px;
+    border-radius: 10px;}
+#container{
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 25PX;}
+.fotos{
+    width: 110px; } 
+.text{
+    margin-top: -50px;
+    margin-left: 110px;
+    font-family: 'Sofia',cursive;}
+.text1{
+    margin-top: -70px;
+    margin-left: 110px;
+    font-family: 'Sofia',cursive;}
+a{
+    color: rgb(0, 0, 0);}
+a:hover{
+    color: rgb(214, 79, 16);}
+.box img{
+    width: 86px;
+    padding: 12px;
+}
+
+.box:hover{
+    transform: scale(0.9);}
+
+#item1{
+    position: absolute;
+    top: 100px;
+    left: 350px;
+}
+#prijsitem1{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+#naamitem1{
+    position: absolute;
+    top: 400px;
+    left: 250px;
+}
+#item2{
+    position: absolute;
+    top: 100px;
+    left: 850px;
+}
+#prijsitem2{
+    position: absolute;
+    top: 400px;
+    left: 700px;
+}
+#naamitem2{
+    position: absolute;
+    top: 400px;
+    left: 250px;
+}
+#item3{
+    position: absolute;
+    top: 280px;
+    left: 350px;
+}
+#prijsitem3{
+    position: absolute;
+    top: 580px;
+    left: 800px;
+}
+#naamitem3{
+    position: absolute;
+    top: 580px;
+    left: 250px;
+}
+#item4{
+    position: absolute;
+    top: 280px;
+    left: 850px;
+}
+#prijsitem4{
+    position: absolute;
+    top: 580px;
+    left: 600px;
+}
+#naamitem4{
+    position: absolute;
+    top: 580px;
+    left: 250px;
+}
+#voorgerechten{
+    position: absolute;
+    top: 100px;
+    left: 1050px;
+}
+
+#container-food{
+    position: absolute;
+    margin-top: -800px;
+    margin-left: 200px;
+}
