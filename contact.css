@@ -34,6 +34,7 @@
         border-radius: 20px;
         font-family: sans-serif;
         /* padding: 5px; */
+        transition: .5s;
         }
         #button1:hover{
             background-color: #085c8d;
@@ -58,6 +59,7 @@
         margin-top: -50px;
         border-radius: 20px;
         font-family: sans-serif;
+        transition: .5s;
             }
         #button2:hover{
             background-color: #085c8d;
@@ -78,6 +80,7 @@
         margin-top: -50px;
         border-radius: 20px;
         font-family: sans-serif;
+        transition: .5s;
     }
     #button3:hover{
         background-color: #085c8d;
