@@ -34,6 +34,7 @@
         border-radius: 20px;
         font-family: sans-serif;
         /* padding: 5px; */
+        transition: .5s;
         }
         #button1:hover{
             background-color: #085c8d;
@@ -58,6 +59,7 @@
         margin-top: -50px;
         border-radius: 20px;
         font-family: sans-serif;
+        transition: .5s;
             }
         #button2:hover{
             background-color: #085c8d;
@@ -78,6 +80,7 @@
         margin-top: -50px;
         border-radius: 20px;
         font-family: sans-serif;
+        transition: .5s;
     }
     #button3:hover{
         background-color: #085c8d;
@@ -107,7 +110,10 @@
         height: 500px;
         margin-top: -500px;
         width: 600px;
-        border: #000000;
+        border: 4px solid rgba(0, 16, 247, 0.411);
+        border-bottom-left-radius: 20px;
+        border-radius: 20px;
+        padding: px;
     }
     select{
         width: 200px;
