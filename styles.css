@@ -217,7 +217,7 @@
     position: absolute;
     margin-top: -500px;
     margin-left: 200px;
-    width: 300px;
+    width: 290px;
     border-radius: 10px;
     height: 244px;
     border: 2px solid rgba(0, 0, 0, 0.609);
@@ -230,6 +230,7 @@
 
 #box2{
     margin-top: 50px;
+    
 }
 
 #prijs2{
@@ -246,9 +247,9 @@
     border-radius: 10px 50px;
 }
 
-#naam2{
+#naam2 {
     background-color: rgb(0, 0, 0);
-    width: 300px;
+    width: 290px;
     height: 28px;
     margin-left: 200px;
     margin-top: -515px;
