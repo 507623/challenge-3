@@ -7,11 +7,12 @@
     body{
         /* background-color: rgb(148, 188, 205); */
         background-color: aliceblue;
-        
+        background-image: url(./imges/test.png);
+        font-family: sans-serif;
     }
     
     header{
-        background-color: #0E4281;
+        background-color: #317bd4b0;
         width: 100%;
         height: 90px;
         
@@ -100,20 +101,19 @@
         font-family: sans-serif;
         color: black    ;
     } 
-    #map{
-        margin-left: 150px;
-        margin-top: 80px;
-        border-radius: 10%;
-    }
+   
     table{
         margin-left: 1080px;
         height: 500px;
         margin-top: -500px;
         width: 600px;
-        border: 4px solid rgba(0, 16, 247, 0.411);
+        border: 2px solid rgb(0, 0, 0);
         border-bottom-left-radius: 20px;
-        border-radius: 20px;
+        border-radius: 15px;
+        background-color: #4893be;
+        font-size: 20px;
         padding: px;
+        
     }
     select{
         width: 200px;
@@ -121,7 +121,7 @@
   
 
 footer{
-    background-color: #81C6E8;
+    background-color: #81c6e8b1;
     width: 100%;
     height: 158px;
     margin-top: 117px;
@@ -142,3 +142,23 @@ footer{
     margin-top: 20px;
     position: absolute;
 }
+
+#banner {
+    border-style: solid;
+    border-image: url(https://i.imgur.com/5OgMQoX.png) 20 35 25 35;
+    border-width: 2px 2px 2px 2px;
+    height: 500px;
+    width: 600px;
+    position: relative;
+    overflow: hidden;
+    padding: 0;
+    border-radius: 15px;
+    margin-top: 100px;
+    margin-left: 200px;
+  }
+  
+  #banner iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  } 

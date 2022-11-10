@@ -2,11 +2,12 @@
 body{
     font-family: sans-serif;
     background-color: aliceblue;
+    background-image: url(./imges/test.png);
 }
 /* HEADER */
 
 header{
-    background-color: #0E4281;
+    background-color: #317bd4b0;
     width: 1920px;
     height: 90px;
     margin-top: -8px;
