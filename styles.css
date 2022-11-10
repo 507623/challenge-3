@@ -134,7 +134,7 @@
         font-family: sans-serif;  
     }
     #maaltijd{
-        margin-left: 30%;
+        margin-left: 42%;
         margin-top: -150px;
     } 
     
@@ -154,7 +154,7 @@
         font-family: sans-serif;
     }
     #media{
-        margin-left: 70%;
+        margin-left: 10%;
         margin-top: -140px;
     }
     #inst{
@@ -165,6 +165,16 @@
         width: 80PX;
         margin-top:15PX;
     }
+#soliciteren{
+    margin-top: -135px;
+    margin-left: 75%;
+}
+
+#klik{
+    margin-top: 15px;
+    margin-left: 65px; 
+    color: #0E4281;
+}
 #seller1{
     position: absolute;
     margin-top: -500px;
@@ -324,4 +334,7 @@
     width: 20px;
     margin-left: 200px;
     position: absolute;
+}
+a{
+    color: rgb(4, 50, 255);
 }

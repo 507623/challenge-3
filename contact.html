@@ -26,28 +26,28 @@
             </tr>
             
             <tr>
-             <td>voor naam</td>
-                <td><input type="text" required></td>
+             <td><label for="vo">voor naam</label>  </td>
+                <td><input id="vo" type="text" required name="Voornaam"></td>
             </tr>
         
             <tr>
-                <td>achter naam</td>
-                <td><input type="text"></td>
+                <td><label for="ac">achter naam</label>  </td>
+                <td><input id="ac" type="text" required name="Achternaam"></td>
             </tr>
             
             <tr>
-                <td>telefoonummer</td>
-                <td><input type="mobile" required></td>
+                <td> <label for="te">telefoonummer</label></td>
+                <td><input  id="te"  type="mobile" required name="telefoonummer" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" ></td>
             </tr>
         
             <tr>
-                <td>mail</td>
-                <td><input type="email"></td>
+                <td> <label for="mail">mail</label>  </td>
+                <td><input id="mail" type="email" required></td>
             </tr>
         
             <tr>
                 <td> vacture voor</td>
-                <td> <select name="" id="">
+                <td> <select name="vacture " id="" required>
                     <option selected >---</option >
                     <option >keuken</option>
                     <option >afwas</option>
@@ -58,7 +58,7 @@
             <tr>
                 <td>Dienstverband</td>
                 <td>
-                <select name="" id="">
+                <select name="Dienstverband" id="" >
                     <option selected >---</option >
                     <option >parttime</option>
                     <option >vast</option>
@@ -68,12 +68,12 @@
             
             <tr>
                 <td>werkervaring</td>
-                <td>ja <input type="checkbox" value="ja"> nee <input type="checkbox" ></td>
+                <td>ja <input type="checkbox" name="werkervaring" value="ja"checked > nee <input type="checkbox" name="werkervaring" ></td>
             </tr>
             
             <tr>
                 <td>cv</td>
-                <td><input type="file"></td>
+                <td><input type="file" name="cv"></td>
             </tr>
             <tr>
                 
@@ -100,7 +100,7 @@
 <div id="contact">
     <h1>CONTACT</h1>
     <br>
-    <p><a href="mailto:ghaithkhaled16@gmail.com">Ghaithkhaled16@gmail.com</a></p>
+    <p><a href="mailto:ghaithkhaled16@gmail.com">Info@FletcherRestauant.nl</a></p>
     <p><a href="tel:0687648955">0687648955</a></p>
 </div>
 </footer>
