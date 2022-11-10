@@ -104,6 +104,7 @@ a{
 #tekst{
     width: 500px;
     height: 300px;
+    font-size: 20px;
 }
 #tekst-info{
     margin-left: 200px;
@@ -116,7 +117,7 @@ a{
 #Efoto{
     position: absolute;
     margin-left: 950px;
-    margin-top: -550px;
+    margin-top: -600px;
     border-radius: 20px;
     box-shadow: 10px 10px 50px 1px;
     overflow:hidden;
