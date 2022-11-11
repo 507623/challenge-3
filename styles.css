@@ -143,7 +143,7 @@
     }
     #maaltijd{
         margin-left: 42%;
-        margin-top: -150px;
+        margin-top: -140px;
     } 
     
     #Ontijd {
@@ -325,7 +325,7 @@
 #bestseller{
     width: 250px;
     height: 35px;
-    background-color: #81C6E8;
+    background-color: #81c6e87b;
     margin-top: -550px ;
     margin-left: 425px;
     position: absolute;
